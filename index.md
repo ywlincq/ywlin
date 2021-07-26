@@ -83,7 +83,6 @@
 
   <h2> Selected Publications (<a href="https://scholar.google.com/citations?user=wOFhljYAAAAJ&hl=en">Google Scholar</a>)</h2>
 
-      <ol>
 
             <li>AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillationand Bi-directional Metric Learnin (<a href="./documents/TCYB.pdf">PDF</a>)  <br>
             H. Wang, Y. Deng, S. Yoo, H. Ling, <strong>Yuewei Lin*</strong> (* Corresponding author) <br>
@@ -229,9 +228,7 @@
                 <strong>Y. Lin</strong>, B. Fang, Y. Tang.<br>
                 AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), Atlanta, 2010.<br>
             </li><br>
-                                
-      </ol>
-
+                             
     </p>
   </div>
 
