@@ -281,10 +281,6 @@
   <!-- End of Statcounter Code -->
   
   
-</div>
-
-  <!-- End page content -->
-</div>
 
 <script>
 // Accordion 
@@ -314,7 +310,3 @@ function w3_close() {
 </script>
 
 
-
-</body>
-
-</html>
