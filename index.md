@@ -229,7 +229,6 @@
                 AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), Atlanta, 2010.<br>
             </li><br>
                              
-    </p>
   </div>
 
 <br>
