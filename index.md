@@ -19,9 +19,6 @@
 	</style>
 </head>
 <body>
-	<div class="topLeft">
-		<img src="./pictures/Carolina_logo.png" alt="for homepage" width="260" height="140" />
-	</div>
 
 	<div class="navigation">
 		<br/><br/>
