@@ -1,0 +1,41 @@
+div.navi {
+    margin-bottom: -1px;
+}
+
+div.navi_bar {
+    position: relative;
+    height: 3px;
+    width: 100%;
+    background-color: #034f84;
+}
+
+a.navi {
+    background-color: #e5f3ff;
+    color: black;
+    padding: 5px 8px 6px 8px;
+    margin: 8px 8px 0 0;
+    display:inline-block;
+    font-size: large;
+    text-decoration: none;
+    -webkit-transition: color 200ms, background-color 200ms;
+    -moz-transition: color 200ms, background-color 200ms;
+    -o-transition: color 200ms, background-color 200ms;
+    transition: color 200ms, background-color 200ms;
+    -webkit-border-radius: 0.25em 0.25em 0 0;
+    -moz-border-radius: 0.25em 0.25em 0 0;
+    border-radius: 0.25em 0.25em 0 0;
+}
+
+a.navi_active {
+    background-color: #034f84 /*539ef6*/;
+    color: white;
+}
+
+a.navi:hover {
+    background-color: #0479cc/*7BC1F6*/;
+    color: white;
+}
+
+a.navi_active:hover {
+    background-color: #034f84;
+}

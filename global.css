@@ -1,0 +1,36 @@
+body {
+    margin-left: 7em;
+    margin-right: 7em;
+    overflow-y: scroll;
+    font-family: Helvetica; /*georgia, arial, serif*/
+}
+
+div.central_body {
+    max-width: 50em;
+    margin: 0.5em auto;
+    padding: 0 0.5em;
+}
+
+h3.section {
+    color: #034f84/*#539ef6*/;
+}
+
+h4.section {
+
+}
+
+div.subsection {
+    margin-left: 1em;
+}
+
+span.inline_emphasize {
+    color: red;
+}
+
+span.inline_term {
+    font-style: italic;
+}
+
+li.sparse {
+    margin-top: 0.75em;
+}

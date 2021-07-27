@@ -1,0 +1,32 @@
+div.photo_intro {
+    margin: 1em 0;
+}
+
+img.photo {
+    display: inline-block;
+    width: 15em; height: 15em;
+    vertical-align: bottom;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+}
+
+div.intro {
+    display: inline-block;
+    vertical-align: bottom;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+span.intro_name {
+    font-weight: bold;
+    font-size: large;
+}
+
+span.intro_affiliation {
+    font-weight: bold;
+}
+
+img.book {
+    height: 12.5em;
+    margin-right: 1em;
+}
