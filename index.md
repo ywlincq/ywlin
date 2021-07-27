@@ -106,11 +106,9 @@
         &nbsp; &nbsp; &nbsp;
         <a href="https://www.liverpoolfc.com/" target="_blank"><font color="#0099ff">Liverpool FC</font></a><img style="" src="./Liverpool.jpg" width="22" height="22"> You'll never walk alone!
 	<HR>
-        
-        <!-- hitwebcounter Code START -->
-        <a href="https://www.hitwebcounter.com" target="_blank">
-        <img src="https://hitwebcounter.com/counter/counter.php?page=7844589&style=0033&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>        
+             
   </div>  
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dnvaun9jss&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 	        
 </div>
 
