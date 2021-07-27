@@ -108,9 +108,9 @@
 	<HR>
 
   </div>  
-	
+	<!-- hitwebcounter Code START -->
+        <a href="https://www.hitwebcounter.com" target="_blank">
+        <img src="https://hitwebcounter.com/counter/counter.php?page=7844589&style=0033&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"  border="0" /></a>        
 </div>
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7844589&style=0033&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>        
+
 </body></html>
