@@ -104,8 +104,7 @@
         <a href="http://conferences.visionbib.com/Iris-Conferences.html" target="_blank"><font color="#0099ff">CV Conferences</font></a>   
         <br>
         &nbsp; &nbsp; &nbsp;
-        <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank"><font color="#0099ff">Liverpool FC</font></a><img style="" src="./Liverpool.jpg" width="22" height="22"> You'll never walk alone!
-	<HR>
+        <a href="https://www.liverpoolfc.com/" target="_blank"><font color="#0099ff">Liverpool FC</font></a><img style="" src="./Liverpool.jpg" width="22" height="22"> You'll never walk alone!
 	<HR>
         
         <!-- hitwebcounter Code START -->
